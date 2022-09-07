@@ -25,3 +25,16 @@ and also want to see the large collection of **ancient and medieval Indian artif
 * Eden Gardens
 
 Added the AboutMe file **[page](AboutMe.md)** in the Readme file.
+
+---
+
+## Beautiful cities to visit
+
+I will recommend to visit these 4 cities which are very famous to visit they are Goa,Pune,Ladakh and Vijayawada. <br>
+
+| Cities  |  Location  |  Time to Spend  |
+| :------: | :--------: | :-------------: |
+|  Goa     | Bagha Beach| Min 3 hours     |  
+|  Pune    | Lonavala Forest Area | Min 1 Day |
+| Ladakh   | Pangong Lake | Min 3 Days |
+| Vijayawada| Durga Temple| Min 5 Hours |
