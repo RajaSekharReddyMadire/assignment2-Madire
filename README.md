@@ -47,3 +47,20 @@ I will recommend to visit these 4 cities which are very famous to visit they are
 > The way to get started is to quit talking and being doing. - _Walt Disney_
 
 > Loved you yesterday, love you still,always have,always will. -_Elaine Davis_
+
+---
+
+## Code Snippet 
+<br>
+
+> Best Practice: 301 Redirect HTTP to HTTPS (Standard Domain) - [Statckoverflow.com](https://stackoverflow.com/questions/29029049/best-practice-301-redirect-http-to-https-standard-domain)
+<br>
+
+```
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+```
+Link to [CSS-TRICKS-CODE-SNIPPET](https://css-tricks.com/snippets/htaccess/force-https/)
+
