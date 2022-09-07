@@ -38,3 +38,12 @@ I will recommend to visit these 4 cities which are very famous to visit they are
 |  Pune    | Lonavala Forest Area | Min 1 Day |
 | Ladakh   | Pangong Lake | Min 3 Days |
 | Vijayawada| Durga Temple| Min 5 Hours |
+
+---
+
+## Best Quotes
+<br>
+
+> The way to get started is to quit talking and being doing. - _Walt Disney_
+
+> Loved you yesterday, love you still,always have,always will. -_Elaine Davis_
