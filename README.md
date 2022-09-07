@@ -23,3 +23,5 @@ and also want to see the large collection of **ancient and medieval Indian artif
 * Science City
 * St.Paul's Cathedral
 * Eden Gardens
+
+Added the AboutMe file **[page](AboutMe.md)** in the Readme file.
